@@ -1,5 +1,9 @@
 # 基于 Vite2.x + Vue3.x + TypeScript H5 低代码平台
 
+## 修改 pnpm 使用，只用来做 node18 使用
+
+pnpm 删除，用来做一个 vantUI
+
 [![license](https://img.shields.io/github/license/buqiyuan/vite-vue3-lowcode.svg)](LICENSE)
 
 **中文** | [English](./README.EN.md)

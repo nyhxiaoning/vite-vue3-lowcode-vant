@@ -138,6 +138,5 @@
     "*.md": [
       "prettier --write"
     ]
-  },
-  "packageManager": "^pnpm@6.32.4"
+  }
 }
